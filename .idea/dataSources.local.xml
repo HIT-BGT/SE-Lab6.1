@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails blog: development" uuid="db027ebf-2511-4381-97ac-14af6ba2b73b">
+      <auth-required>false</auth-required>
+    </data-source>
+    <data-source name="Rails blog: cucumber" uuid="b43d666f-b257-4f2b-b52b-cedf59028845">
+      <auth-required>false</auth-required>
+    </data-source>
+    <data-source name="Rails blog: test" uuid="d04bb629-81b4-4f7c-89b0-752e05049145">
+      <auth-required>false</auth-required>
+    </data-source>
+  </component>
+</project>
